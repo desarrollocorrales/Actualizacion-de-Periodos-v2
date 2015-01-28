@@ -1,13 +1,7 @@
 D:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\bin\Debug\Actualizar Periodos.exe.config
 D:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\bin\Debug\Actualizar Periodos.exe
 D:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\bin\Debug\Actualizar Periodos.pdb
-D:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\bin\Debug\EntityFramework.dll
-D:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\bin\Debug\EntityFramework.Firebird.dll
-D:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\bin\Debug\EntityFramework.SqlServer.dll
 D:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
-D:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\bin\Debug\EntityFramework.xml
-D:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\bin\Debug\EntityFramework.Firebird.pdb
-D:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\bin\Debug\EntityFramework.SqlServer.xml
 D:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
 D:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\obj\x86\Debug\Actualizar Periodos.csprojResolveAssemblyReference.cache
 D:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\obj\x86\Debug\Actualizar_Periodos.Frm_Principal.resources

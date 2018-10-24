@@ -13,3 +13,6 @@ D:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\obj\x86\Debug\Actuali
 G:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\bin\Debug\Actualizar Periodos.exe.config
 G:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\obj\x86\Debug\Actualizar Periodos.exe
 G:\Github\Actualizacion-de-Periodos-v2\Actualizar Periodos\obj\x86\Debug\Actualizar Periodos.pdb
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\Actualizacion-de-Periodos-v2\Actualizar Periodos\bin\Debug\Actualizar Periodos.exe.config
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\Actualizacion-de-Periodos-v2\Actualizar Periodos\obj\x86\Debug\Actualizar Periodos.exe
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\Actualizacion-de-Periodos-v2\Actualizar Periodos\obj\x86\Debug\Actualizar Periodos.pdb
